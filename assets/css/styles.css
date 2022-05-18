@@ -6783,12 +6783,48 @@ button.close {
   }
 }
 
-.jumboTron{
-    color: inherit;
-    background-color: #eee;
-    padding: 1em;
-}
+
+
+/* Custom Styles */
 
 .mainBody{
     margin: 5em;
+}
+
+.jumboTron{
+    position: absolute;
+    left: 55em;
+    color: inherit;
+    background-color: #eee;
+    padding: 1em;
+    width: 80em;
+}
+
+.jumboContent{
+    font-size: large;
+    
+}
+
+
+.jacksonMap{
+    /* position: relative;
+    left: 95em; */
+}
+
+.gitAsset{
+    position: relative;
+    left: 350px;
+    bottom: 90px;
+    height: 85px;
+    width: 85px;
+    padding: 10px;
+}
+
+.linkedinAsset{
+    position: relative;
+    bottom: 90px;
+    left: 350px;
+    height: 85px;
+    width: 85px;
+    padding: 10px;
 }
